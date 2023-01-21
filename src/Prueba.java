@@ -24,12 +24,6 @@ public class Prueba {
 					System.out.println(numero2);
 					System.out.println(numero2);
 					System.out.println(numero2);
-					System.out.println(numero2);
-					System.out.println(numero2);
-					System.out.println(numero2);
-					System.out.println(numero2);
-					System.out.println(numero2);
-					System.out.println(numero2);
 					
 				}
 				
